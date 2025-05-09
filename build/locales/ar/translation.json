@@ -1,0 +1,13 @@
+{
+    "welcome": "مرحبًا بك في موقعنا",
+    "hello": "مرحبًا، {{name}}!",
+    "language": "اللغة",
+    "change_language": "تغيير اللغة",
+    "home": "الرئيسية",
+    "about": "معلومات عنا",
+    "contact": "اتصل بنا",
+    "description": "هذا موقع متعدد اللغات",
+    "greeting_morning": "صباح الخير!",
+    "greeting_evening": "مساء الخير!"
+  }
+  

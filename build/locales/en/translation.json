@@ -1,0 +1,13 @@
+{
+    "welcome": "Welcome to our website",
+    "hello": "Hello, {{name}}!",
+    "language": "Language",
+    "change_language": "Change Language",
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact",
+    "description": "This is a multi-language website",
+    "greeting_morning": "Good morning!",
+    "greeting_evening": "Good evening!"
+  }
+  
